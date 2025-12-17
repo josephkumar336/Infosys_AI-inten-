@@ -1,6 +1,4 @@
 # Infosys_AI-inten-
-Just demo 
-
 
 Enhanced Contract Compliance System
 🌟 Project Overview
